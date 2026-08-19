@@ -42,7 +42,7 @@ Analyzed **1,500 product-interaction records** covering January 2025 to June 202
 
 **Outcome:** Identified underperforming and high-performing features, major UX pain points, customer segments experiencing greater difficulty, and opportunities for product improvements based on performance and experimental evidence.
 
-🔗 **[View Project →](https://github.com/ruth246/afriment-waitlist-onboarding-analysis)**
+🔗 **[View Project →](#)**
 
 ### 📋 Afriment Waitlist & Onboarding Analysis
 
@@ -61,7 +61,7 @@ Analyzed waitlist and onboarding data across multiple learner cohorts to underst
 
 **Outcome:** Identified key patterns in participant demographics and acquisition channels, providing insights to support learner recruitment, onboarding, and growth strategies.
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://github.com/ruth246/afriment-waitlist-onboarding-analysis)
 
 ### ⚙️ PwC UK Operational Cost & Efficiency Analysis
 
