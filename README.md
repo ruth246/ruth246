@@ -42,7 +42,7 @@ Analyzed **1,500 product-interaction records** covering January 2025 to June 202
 
 **Outcome:** Identified underperforming and high-performing features, major UX pain points, customer segments experiencing greater difficulty, and opportunities for product improvements based on performance and experimental evidence.
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://github.com/ruth246/afriment-waitlist-onboarding-analysis)**
 
 ### 📋 Afriment Waitlist & Onboarding Analysis
 
