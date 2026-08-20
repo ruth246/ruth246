@@ -80,7 +80,7 @@ Analyzed a UK operational performance dataset to identify cost drivers, process 
 
 **Outcome:** Identified key operational inefficiencies and automation gaps and developed data-driven recommendations to optimize workflows, reduce duplication, expand automation, and improve operational efficiency.
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://github.com/ruth246/pwc-uk-operational-cost-efficiency-analysis)
 
 ### 🛒 Olist E-commerce Product Category Analysis
 
