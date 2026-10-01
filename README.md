@@ -101,6 +101,27 @@ Analyzed the Olist e-commerce dataset to evaluate product category performance, 
 
 🔗 **[View Project →](https://github.com/ruth246/olist-product-category-performance-analysis)
 
+### 🛍️ Zalando Europe Product Performance Analysis
+
+Analyzed Zalando product performance across European markets using Power BI to understand sales, profitability, demand, inventory, pricing, discounts, returns, and delivery performance.
+
+**Key areas analyzed:**
+
+* Regional and market-level sales and profitability performance
+* Product category and brand-tier performance
+* Seller and fulfilment model performance
+* Demand trends and inventory levels
+* Pricing and discount patterns
+* Product returns, delivery performance, and customer complaints
+* Relationships between product performance and key operational factors
+
+**Tools:** Power BI | DAX | Data Cleaning | Data Modeling | Data Visualization
+
+**Outcome:** Identified key performance patterns, inventory and demand gaps, pricing opportunities, and return-related issues, providing data-driven recommendations to improve product performance, inventory allocation, pricing strategies, and customer experience.
+
+🔗 **[View Project →](https://github.com/ruth246/zalando-europe-product-performance-analysis)**
+
+
 ## 📚 Currently Learning
 
 * 🤖 **Machine Learning** — building foundational machine learning skills to enhance my data analysis and predictive analytics capabilities.
