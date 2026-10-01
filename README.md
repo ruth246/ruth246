@@ -99,7 +99,7 @@ Analyzed the Olist e-commerce dataset to evaluate product category performance, 
 
 **Outcome:** Identified top-performing categories, seasonal revenue opportunities, pricing patterns, and complementary products that could support inventory planning, category-specific pricing, product bundling, and improved average order value.
 
-🔗 **[View Project →](#)**
+🔗 **[View Project →](https://github.com/ruth246/olist-product-category-performance-analysis)
 
 ## 📚 Currently Learning
 
